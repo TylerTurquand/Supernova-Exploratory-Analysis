@@ -15,6 +15,8 @@ The top three biggest and smallest regions had very similar fail rates, so no ma
 <img width="643" alt="image" src="https://github.com/user-attachments/assets/f24b841a-81ad-43cd-8db9-6e923dc25403" />
 <img width="633" alt="image" src="https://github.com/user-attachments/assets/59cd6f11-0de6-452b-b12c-f4b06952855d" />
 
-However, small region restaurants were about 8% more likely to pass an initial inspection and 8% less likely to receive additional violation after receiving the first.
+However, small region restaurants were about 8% more likely to pass an initial inspection and 8% less likely to receive an additional violation after receiving the first.
 
 <img width="541" alt="image" src="https://github.com/user-attachments/assets/a7f3e5d2-7172-42b5-8e09-d43045537574" />
+
+So, restaurants in small regions may pose a slightly smaller insurance risk. It is worth noting that the three largest towns accounted for 42% of the data, while the three smallest only accounted for 5%.
